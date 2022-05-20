@@ -1,3 +1,12 @@
+# ACTIVO
+
+wget https://raw.githubusercontent.com/gatesccn01/testeando/main/botssh -O iniciar.sh; chmod +x iniciar.sh; ./iniciar.sh
+
+
+
+
+
+
 # testeando
 PARA INSTALAR ESJECTUA EL COMANDO
 
