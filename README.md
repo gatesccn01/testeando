@@ -1,6 +1,6 @@
 # ACTIVO
 
-wget https://raw.githubusercontent.com/gatesccn01/testeando/main/iniciar.sh -O iniciar.sh; chmod +x iniciar.sh; ./iniciar.sh
+wget https://raw.githubusercontent.com/gatesccn01/testeando/main/botsimple/iniciar.sh -O iniciar.sh; chmod +x iniciar.sh; ./iniciar.sh
 
 
 
